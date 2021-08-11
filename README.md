@@ -1,7 +1,8 @@
 # Site Anna Bella
 
 ### Tecnologias Utilizadas:
-* HTML  para crição do frontend
+* HTML  para criação do frontend
+* CSS   para criação de estilo
 #### 1. Clone o projeto
 
 ```
